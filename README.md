@@ -9,3 +9,8 @@ make
 <!-- gcc main.c -L. libftprintf.a -->
 ./a.out
 ```
+<!-- 
+make test
+$ ./test
+$ make testbonus
+$ ./testbonus -->
