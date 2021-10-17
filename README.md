@@ -14,3 +14,5 @@ make test
 $ ./test
 $ make testbonus
 $ ./testbonus -->
+
+makefile make .a vizhse
