@@ -19,7 +19,7 @@ int main()
 	printf("\n");
 
 	int i = 0;
-	int	fd;
+	int fd;
 	
 	printf("ft_write\n");
 	printf("writing to file\n");
